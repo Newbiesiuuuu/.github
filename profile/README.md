@@ -2,8 +2,11 @@
 <div align="center"><img src="https://i.ibb.co/Q6prRcZ/Bloghublogo1.png" alt="Bloghublogo1" border="0" width="200px" /></div>
 
 > _**ようこそBloghubへ🤫**_
+
 ---
 <br>
+
+[Wiki로 이동](https://github.com/Newbiesiuuuu/main/wiki)
 
 # 1. 서비스 소개
 > **BlogHub**는 전 세계에서 다양한 주제와 관심사를 가진 사람들이 모여 자유롭게 글을 작성하고 공유했으면 하는 마음에서 개발한 서비스입니다
